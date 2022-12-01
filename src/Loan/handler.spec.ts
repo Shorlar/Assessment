@@ -17,7 +17,6 @@ describe(`${GetLoanValueQueryHandler.name}`, () => {
   };
 
   const ratesWithoutNGN = {
-    NGN: 450,
     EUR: 1.2,
     GBP: 0.99,
   };

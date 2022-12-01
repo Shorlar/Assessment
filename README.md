@@ -6,7 +6,7 @@ This project is an assessment in two parts. First an API that fetches currency r
 
 ```bash
 $ Clone the repository
-$ Run npm install to install dependencies
+$ Run npm install
 $ Setup environment variables
 ```
 ```bash
@@ -24,9 +24,6 @@ $ npm run start
 
 # watch mode
 $ npm run start:dev
-
-# production mode
-$ npm run start:prod
 ```
 
 ## Test
@@ -34,9 +31,6 @@ $ npm run start:prod
 ```bash
 # unit tests
 $ npm run test
-
-# e2e tests
-$ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
